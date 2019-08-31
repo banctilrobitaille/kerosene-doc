@@ -1,5 +1,9 @@
 pages:
   - Home: 'index.md'
+  - Getting Started: 'getting_started.md'
+  - Configuration: 'configuration.md'
+  - Events: 'events.md'
+  - Apex: 'apex.md'
 
 site_name: Kerosene Documentation
 repo_url: https://github.com/banctilrobitaille/kerosene-doc

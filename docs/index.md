@@ -1,5 +1,12 @@
-# Welcome to the official Kerosene documentation
+# Getting Started
 
+## Trainer
+
+## Model Trainer
+
+## Configuration
+
+## 
 ```python 
 
 class Python(object):
