@@ -1,1 +1,12 @@
-site_name: My Docs
+pages:
+  - Home: 'index.md'
+
+site_name: Kerosene Documentation
+repo_url: https://github.com/banctilrobitaille/kerosene-doc
+
+markdown_extensions:
+  - admonition
+  - smarty
+  - sane_lists
+
+theme: readthedocs
