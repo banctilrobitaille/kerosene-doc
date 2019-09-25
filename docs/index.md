@@ -20,9 +20,9 @@ Instead, the model is wrapped in a ```kerosene.training.trainers.ModelTrainer```
 
 The trainer object can be seen as the training orchestrator. The trainer handles the following:
 
-- [X] Main training and validation loops;
-- [X] Data loading (from the data loaders) and the distribution to the good device (GPU/CPU);
-- [X] Training event handling
+- Main training and validation loops;
+- Data loading (from the data loaders) and the distribution to the good device (GPU/CPU);
+- Training event handling
 
 For a simple use case where a single model is used with standard forward and backward passes, the predefined
 ```kerosene.training.trainers.SimpleTrainer``` can be used. It will handle all the training and validation process for you.
